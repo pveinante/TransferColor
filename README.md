@@ -6,7 +6,7 @@ See resume [here](ColorTransferResume.pdf)
 ## LDR Color Transfer
 
 Python implementation of Color Transfer between images. 
-See code [here](src/Reinhard.py.py)
+See code [here](src/Reinhard.py)
 
 ## HDR Color Transfer
 
