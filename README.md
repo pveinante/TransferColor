@@ -6,14 +6,14 @@ See resume [here](ColorTransferResume.pdf)
 ## LDR Color Transfer
 
 Python implementation of Color Transfer between images. 
-See code [here](Reinhard.py.py)
+See code [here](src/Reinhard.py.py)
 
 ## HDR Color Transfer
 
 Color transfer for Extension for HDR images. 
-See code [here](HDR_Reinhard.py)
+See code [here](src/HDR_Reinhard.py)
 
 ## MGD 
 
 Color transfer using MDG.
-See code [here](base_colortransfer.py)
+See code [here](src/base_colortransfer.py)
