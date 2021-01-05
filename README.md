@@ -24,13 +24,7 @@ See code [here](src/HDR_Reinhard.py)
 ### Commands:
   - colortransfer
   - help
-
-## MGD 
-
-Color transfer using MDG.
-See code [here](src/base_colortransfer.py)
-
-
+  
 ## MGD 
 
 Color transfer using MDG.
