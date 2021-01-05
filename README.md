@@ -8,10 +8,22 @@ See resume [here](ColorTransferResume.pdf)
 Python implementation of Color Transfer between images. 
 See code [here](src/Reinhard.py)
 
+Usage: Reinhard.py [OPTIONS] COMMAND [ARGS]...
+
+Commands:
+  colortransfer 
+  help
+
 ## HDR Color Transfer
 
 Color transfer for Extension for HDR images. 
 See code [here](src/HDR_Reinhard.py)
+
+Usage: HDR_Reinhard.py [OPTIONS] COMMAND [ARGS]...
+
+Commands:
+  colortransfer
+  help
 
 ## MGD 
 
