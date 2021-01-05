@@ -11,8 +11,8 @@ See code [here](src/Reinhard.py)
 ### Usage: Reinhard.py [OPTIONS] COMMAND [ARGS]...
 
 ### Commands:
-  colortransfer 
-  help
+  - colortransfer 
+  - help
 
 ## HDR Color Transfer
 
@@ -22,8 +22,8 @@ See code [here](src/HDR_Reinhard.py)
 ### Usage: HDR_Reinhard.py [OPTIONS] COMMAND [ARGS]...
 
 ### Commands:
-  colortransfer
-  help
+  - colortransfer
+  - help
 
 ## MGD 
 
