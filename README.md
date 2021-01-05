@@ -29,3 +29,21 @@ See code [here](src/HDR_Reinhard.py)
 
 Color transfer using MDG.
 See code [here](src/base_colortransfer.py)
+
+
+## MGD 
+
+Color transfer using MDG.
+See code [here](src/base_colortransfer.py)
+
+### Usage: base_colortransfer.py [OPTIONS] COMMAND [ARGS]...
+
+Write line 10 and 11 the source and target images.
+
+### Usage: base_colortransfer.py simplegaussian
+
+### Commands:
+  - colortransfer                      (Execute Reinhard color transfer)
+  - multivariategaussian               (Execute MGD color transfer)
+  - multivariategaussian --chomaonly   (Execute MGD with particular luminance processing color transfer)
+  
